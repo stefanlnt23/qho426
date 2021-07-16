@@ -1,0 +1,22 @@
+import time
+activity =  input (" Please enter the activity to be performed: ")
+if (activity =="calculate"):
+  print (" Performing Calculations...")
+  time.sleep(1)
+  print (" Performing Calculations...")
+  time.sleep(1)
+  print (" Performing Calculations...")
+  print (" Performing Calculations...")
+  time.sleep(1)
+  print (" Performing Calculations...")
+  time.sleep(1)
+  print (" Performing Calculations...")
+else:
+  print (" Performing activity")
+  time.sleep(1)
+  print (" Performing activity")
+  time.sleep(1)
+  print (" Performing activity")
+  time.sleep(1)
+  print (" Performing activity")
+print (" Activity completed!")
